@@ -11,6 +11,10 @@ To investigate how sleep duration relates to depression severity and identify pa
 - Sleep data (SLQ)
 - Depression data (DPQ)
 
+## Files
+- `analysis.R` — data cleaning, PHQ-9 scoring, statistical analysis, and visualization
+- `sleep_vs_depression.png` — visualization of the relationship between sleep duration and depression
+
 ## Methods
 - Merged datasets using participant ID (SEQN)
 - Constructed PHQ-9 depression scores (0–27 scale)
@@ -33,7 +37,7 @@ To investigate how sleep duration relates to depression severity and identify pa
 - Base R plotting
 
 ## Key Insight
-Both insufficient and excessive sleep are associated with higher depression levels, suggesting that optimal sleep duration plays an important role in mental health.
+Both insufficient and excessive sleep are associated with higher depression levels, suggesting that optimal sleep duration plays an important role in mental health. This analysis is observational, so the results reflect association rather than causation.
 
 ## Author
 Samuel Stinelli
