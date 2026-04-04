@@ -25,7 +25,7 @@ To investigate how sleep duration relates to depression severity and identify pa
 - Higher depression scores were observed at both low and high sleep durations
 
 ## Visualization
-![Sleep vs Depression](figures/sleep_vs_depression.png)
+![Sleep vs Depression](sleep_vs_depression.png)
 
 ## Tools Used
 - R
